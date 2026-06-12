@@ -209,3 +209,24 @@ def insert_product(
             )
 
             conn.commit()
+
+def sync_artwork_requirements():
+
+    sql = """
+    INSERT INTO product_artwork_requirements (
+        product_code,
+        artwork_group,
+        required
+    )
+    SELECT DISTINCT
+        product_code,
+        artwork_group,
+        TRUE
+    FROM vw_product_artwork_coverage
+    ON CONFLICT DO NOTHING
+    """
+
+    with get_connection() as conn:
+        with conn.cursor() as cur:
+            cur.execute(sql)
+            conn.commit()

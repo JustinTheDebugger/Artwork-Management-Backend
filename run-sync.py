@@ -12,7 +12,8 @@ from db import (
     get_artwork_id_by_filename,
     get_artwork_details,
     get_product,
-    insert_product
+    insert_product,
+    sync_artwork_requirements
 )
 
 # ---------------- CONFIG ---------------- #
@@ -908,6 +909,9 @@ while True:
 
         # Step 3: Insert artwork into database
         sync_folder_to_neon(folder_path, upload_id, actions)
+
+        # Step 4: Insert product artwork requirements into database
+        sync_artwork_requirements()
 
     except Exception:
 
