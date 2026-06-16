@@ -13,7 +13,7 @@ from db import (
     get_artwork_details,
     get_product,
     insert_product,
-    sync_artwork_requirements
+    seed_artwork_requirements
 )
 
 # ---------------- CONFIG ---------------- #
@@ -707,6 +707,9 @@ def sync_folder_to_neon(folder, upload_id, actions):
                             record.get("range_name")
                         )
 
+                        # Insert product artwork requirements into database
+                        seed_artwork_requirements(product_code)
+
                         actions.append(
                             f"[PRODUCT CREATED] {product_code}"
                         )
@@ -909,9 +912,6 @@ while True:
 
         # Step 3: Insert artwork into database
         sync_folder_to_neon(folder_path, upload_id, actions)
-
-        # Step 4: Insert product artwork requirements into database
-        sync_artwork_requirements()
 
     except Exception:
 

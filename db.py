@@ -210,7 +210,7 @@ def insert_product(
 
             conn.commit()
 
-def sync_artwork_requirements():
+def seed_artwork_requirements():
 
     sql = """
     INSERT INTO product_artwork_requirements (
@@ -218,12 +218,12 @@ def sync_artwork_requirements():
         artwork_group,
         required
     )
-    SELECT DISTINCT
-        product_code,
+    SELECT
+        %s,
         artwork_group,
         TRUE
-    FROM vw_product_artwork_coverage
-    ON CONFLICT DO NOTHING
+    FROM artwork_groups
+    ON CONFLICT DO NOTHING;
     """
 
     with get_connection() as conn:

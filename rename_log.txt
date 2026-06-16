@@ -1,0 +1,115 @@
+[SKIPPED] Exists: 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf
+[SKIPPED] Exists: 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf
+[IGNORED] 260610_Shapeshifter-4_Awning-Module_0266613_Branding_001_A6_HR.pdf
+[IGNORED] 260611_Shapeshifter-4_Awning-Module_0266613_Packaging_Colour-Carton_001_C_HR.pdf
+[IGNORED] 260611_Shapeshifter-4_Awning-Module_0266613_Swing-Tag_001_C_HR.pdf
+[IGNORED] 260611_Shapeshifter-4_Awning-Module_0266613_Swing-Tag_Barcode-Sticker_001_C_HR.pdf
+[PRODUCT CREATED] 0266613-001
+[DB EXISTS] 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf
+[LINKED] 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf -> 0266613-001
+[COMBINED DETECTED] ['0266612-001', '0266613-001', '0266622-001', '0266623-001']
+[AUTO LINKED] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf -> 0266612-001
+[AUTO LINKED] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf -> 0266613-001
+[AUTO LINKED] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf -> 0266622-001
+[AUTO LINKED] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf -> 0266623-001
+[DB EXISTS] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf
+[LINKED] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf -> 0266613-001
+[DB INSERTED] 260610_Shapeshifter-4_Awning-Module_0266613_Branding_001_A6_HR.pdf
+[DB INSERTED] 260611_Shapeshifter-4_Awning-Module_0266613_Packaging_Colour-Carton_001_C_HR.pdf
+[DB INSERTED] 260611_Shapeshifter-4_Awning-Module_0266613_Swing-Tag_001_C_HR.pdf
+[DB INSERTED] 260611_Shapeshifter-4_Awning-Module_0266613_Swing-Tag_Barcode-Sticker_001_C_HR.pdf
+[SKIPPED] Exists: 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf
+[COPIED] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Instructions_001_B_Combined_HR.pdf → 1 - INSTRUCTIONS
+[IGNORED] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Swing-Tag_001_B_Combined_HR.pdf
+[IGNORED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Branding_001_A2_HR.pdf
+[IGNORED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Inner-Shipping-Sticker_001_C_HR.pdf
+[IGNORED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Outer-Shipping-Sticker_001_C_HR.pdf
+[IGNORED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Packaging_Inner-Carton_001_A_HR.pdf
+[IGNORED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Packaging_Outer-Carton_001_A_HR.pdf
+[IGNORED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[PRODUCT CREATED] 0266671-001
+[DB EXISTS] 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf
+[LINKED] 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf -> 0266671-001
+[COMBINED DETECTED] ['0266671-001', '0266672-001']
+[AUTO LINKED] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Instructions_001_B_Combined_HR.pdf -> 0266671-001
+[AUTO LINKED] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Instructions_001_B_Combined_HR.pdf -> 0266672-001
+[DB INSERTED] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Instructions_001_B_Combined_HR.pdf
+[COMBINED DETECTED] ['0266671-001', '0266672-001']
+[AUTO LINKED] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Swing-Tag_001_B_Combined_HR.pdf -> 0266671-001
+[AUTO LINKED] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Swing-Tag_001_B_Combined_HR.pdf -> 0266672-001
+[DB INSERTED] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Swing-Tag_001_B_Combined_HR.pdf
+[DB INSERTED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Branding_001_A2_HR.pdf
+[DB INSERTED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Inner-Shipping-Sticker_001_C_HR.pdf
+[DB INSERTED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Outer-Shipping-Sticker_001_C_HR.pdf
+[DB INSERTED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Packaging_Inner-Carton_001_A_HR.pdf
+[DB INSERTED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Packaging_Outer-Carton_001_A_HR.pdf
+[DB INSERTED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[SKIPPED] Exists: 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf
+[SKIPPED] Exists: 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Instructions_001_B_Combined_HR.pdf
+[IGNORED] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Swing-Tag_001_B_Combined_HR.pdf
+[IGNORED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Branding_001_A2_HR.pdf
+[IGNORED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Inner-Shipping-Sticker_001_C_HR.pdf
+[IGNORED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Outer-Shipping-Sticker_001_C_HR.pdf
+[IGNORED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Packaging_Inner-Carton_001_A_HR.pdf
+[IGNORED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Packaging_Outer-Carton_001_A_HR.pdf
+[IGNORED] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[DB EXISTS] 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf
+[LINKED] 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf -> 0266671-001
+[COMBINED DETECTED] ['0266671-001', '0266672-001']
+[AUTO LINKED] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Instructions_001_B_Combined_HR.pdf -> 0266671-001
+[AUTO LINKED] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Instructions_001_B_Combined_HR.pdf -> 0266672-001
+[DB EXISTS] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Instructions_001_B_Combined_HR.pdf
+[LINKED] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Instructions_001_B_Combined_HR.pdf -> 0266671-001
+[COMBINED DETECTED] ['0266671-001', '0266672-001']
+[AUTO LINKED] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Swing-Tag_001_B_Combined_HR.pdf -> 0266671-001
+[AUTO LINKED] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Swing-Tag_001_B_Combined_HR.pdf -> 0266672-001
+[DB EXISTS] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Swing-Tag_001_B_Combined_HR.pdf
+[LINKED] 260612_Shapeshifter-4-6_Shifterbase-2-Link_0266671-72_Swing-Tag_001_B_Combined_HR.pdf -> 0266671-001
+[DB EXISTS] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Branding_001_A2_HR.pdf
+[DB EXISTS] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Inner-Shipping-Sticker_001_C_HR.pdf
+[DB EXISTS] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Outer-Shipping-Sticker_001_C_HR.pdf
+[DB EXISTS] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Packaging_Inner-Carton_001_A_HR.pdf
+[DB EXISTS] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Packaging_Outer-Carton_001_A_HR.pdf
+[DB EXISTS] 260612_Shapeshifter-4_Shifterbase-2-Link_0266671_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[SKIPPED] Exists: 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf
+[COPIED] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Instructions_001_B_HR.pdf → 1 - INSTRUCTIONS
+[IGNORED] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Swing-Tag_001_A2_HR.pdf
+[IGNORED] 260615_Shapeshifter-4_Sleeping-Footprint_0266632_Branding_001_A_HR.pdf
+[IGNORED] 260615_Shapeshifter-4_Sleeping-Footprint_0266632_Inner-Shipping-Sticker_001_C_HR.pdf
+[IGNORED] 260615_Shapeshifter-4_Sleeping-Footprint_0266632_Outer-Shipping-Sticker_001_C_HR.pdf
+[IGNORED] 260615_Shapeshifter-4_Sleeping-Footprint_0266632_Packaging_Inner-Carton_001_A_HR.pdf
+[IGNORED] 260615_Shapeshifter-4_Sleeping-Footprint_0266632_Packaging_Outer-Carton_001_A_HR.pdf
+[IGNORED] 260615_Shapeshifter-4_Sleeping-Footprint_0266632_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[DB ERROR] 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf: seed_artwork_requirements() takes 0 positional arguments but 1 was given
+[COMBINED DETECTED] ['0266632-001', '0266635-001']
+[AUTO LINKED] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Instructions_001_B_HR.pdf -> 0266632-001
+[AUTO LINKED] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Instructions_001_B_HR.pdf -> 0266635-001
+[DB INSERTED] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Instructions_001_B_HR.pdf
+[COMBINED DETECTED] ['0266632-001', '0266635-001']
+[AUTO LINKED] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Swing-Tag_001_A2_HR.pdf -> 0266632-001
+[AUTO LINKED] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Swing-Tag_001_A2_HR.pdf -> 0266635-001
+[DB INSERTED] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Swing-Tag_001_A2_HR.pdf
+[DB INSERTED] 260615_Shapeshifter-4_Sleeping-Footprint_0266632_Branding_001_A_HR.pdf
+[DB INSERTED] 260615_Shapeshifter-4_Sleeping-Footprint_0266632_Inner-Shipping-Sticker_001_C_HR.pdf
+[DB INSERTED] 260615_Shapeshifter-4_Sleeping-Footprint_0266632_Outer-Shipping-Sticker_001_C_HR.pdf
+[DB INSERTED] 260615_Shapeshifter-4_Sleeping-Footprint_0266632_Packaging_Inner-Carton_001_A_HR.pdf
+[DB INSERTED] 260615_Shapeshifter-4_Sleeping-Footprint_0266632_Packaging_Outer-Carton_001_A_HR.pdf
+[DB INSERTED] 260615_Shapeshifter-4_Sleeping-Footprint_0266632_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[SKIPPED] Exists: 260603_Shapeshifter-6_Production-Tag_001_B_HR.pdf
+[IGNORED] 260604_Shapeshifter-6-Awning-Module_0266623_Packaging_Colour-Carton_001_C_HR.pdf
+[SKIPPED] Exists: 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf
+[IGNORED] 260615_Shapeshifter-6-Awning-Module_0266623_Branding_001_A3_HR.pdf
+[IGNORED] 260615_Shapeshifter-6-Awning-Module_0266623_Swing-Tag_001_C_HR.pdf
+[IGNORED] 260615_Shapeshifter-6-Awning-Module_0266623_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[DB ERROR] 260603_Shapeshifter-6_Production-Tag_001_B_HR.pdf: seed_artwork_requirements() takes 0 positional arguments but 1 was given
+[DB INSERTED] 260604_Shapeshifter-6-Awning-Module_0266623_Packaging_Colour-Carton_001_C_HR.pdf
+[COMBINED DETECTED] ['0266612-001', '0266613-001', '0266622-001', '0266623-001']
+[AUTO LINKED] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf -> 0266612-001
+[AUTO LINKED] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf -> 0266613-001
+[AUTO LINKED] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf -> 0266622-001
+[AUTO LINKED] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf -> 0266623-001
+[DB EXISTS] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf
+[LINKED] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf -> 0266623-001
+[DB INSERTED] 260615_Shapeshifter-6-Awning-Module_0266623_Branding_001_A3_HR.pdf
+[DB INSERTED] 260615_Shapeshifter-6-Awning-Module_0266623_Swing-Tag_001_C_HR.pdf
+[DB INSERTED] 260615_Shapeshifter-6-Awning-Module_0266623_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
