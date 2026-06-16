@@ -210,7 +210,11 @@ def insert_product(
 
             conn.commit()
 
-def seed_artwork_requirements():
+def seed_artwork_requirements(product_code):
+
+    print(
+        f"[SEEDING REQUIREMENTS] {product_code}"
+    )
 
     sql = """
     INSERT INTO product_artwork_requirements (
@@ -228,5 +232,5 @@ def seed_artwork_requirements():
 
     with get_connection() as conn:
         with conn.cursor() as cur:
-            cur.execute(sql)
+            cur.execute(sql, (product_code,))
             conn.commit()

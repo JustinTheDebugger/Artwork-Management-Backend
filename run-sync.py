@@ -215,13 +215,8 @@ def get_product_from_path(folder_path):
 
     folder_name = os.path.basename(folder_path)
 
-    # match = re.search(
-    #     r'(.+?)\s*-\s*(\d{7}-\d{3})$',
-    #     folder_name
-    # )
-
     match = re.search(
-        r'(.+?)\s*-\s*(\d{7}(?:-\d{3})?)$',
+        r'(.+?)\s*-\s*(\d[\d-]*)$',
         folder_name
     )
 
@@ -637,6 +632,14 @@ def get_artwork_group(artwork_type):
         "Packaging_Colour-Box": "Colour Box",
         "Packaging-Colour-Carton": "Colour Box",
         "Packaging_Colour-Carton": "Colour Box",
+
+        # Header Cards
+        "Header-Cards": "Header Cards",
+        "Header-Card": "Header Cards",
+        "Packaging_Header-Cards": "Header Cards",
+        "Packaging-Header-Cards": "Header Cards",
+        "Packaging_Header-Card": "Header Cards",
+        "Packaging-Header-Card": "Header Cards",
     }
 
     return mapping.get(
@@ -648,6 +651,49 @@ def get_artwork_group(artwork_type):
 # ---------------- SYNC FOLDER TO NEON ---------------- #
 
 def sync_folder_to_neon(folder, upload_id, actions):
+    # ---------------------------------
+    # Create product once per folder
+    # ---------------------------------
+
+    full_product_code, folder_product_name = (
+        get_product_from_path(folder)
+    )
+
+    if full_product_code:
+
+        existing = get_product(full_product_code)
+
+        if not existing:
+
+            print("\n" + "=" * 50)
+            print("NEW PRODUCT")
+            print(full_product_code)
+            print("=" * 50)
+
+            product_name = input(
+                f"Product name (Enter = accept '{folder_product_name}'): "
+            ).strip()
+
+            if not product_name:
+                product_name = folder_product_name
+
+            insert_product(
+                full_product_code,
+                product_name,
+                None
+            )
+
+            seed_artwork_requirements(
+                full_product_code
+            )
+
+            actions.append(
+                f"[PRODUCT CREATED] {full_product_code}"
+            )
+
+    # ---------------------------------
+    # Process artwork files
+    # ---------------------------------
 
     for root, _, files in os.walk(folder):
 
@@ -660,61 +706,21 @@ def sync_folder_to_neon(folder, upload_id, actions):
 
                 record = parse_filename(filename)
 
-                full_product_code, product_name = get_product_from_path(folder)
-
                 if record and full_product_code:
 
-                    record["full_product_code"] = full_product_code
-
-                    record["base_product_code"] = full_product_code.split("-")[0]
-
-                    record["product_variant"] = full_product_code.split("-")[1]
-
-                product_code, product_name = (
-                    get_product_from_path(folder)
-                )
-
-                if product_code:
-
-                    existing = get_product(
-                        product_code
+                    parts = base_product_code, product_variant = (
+                        full_product_code.split("-")
                     )
 
-                    if not existing:
+                    record["full_product_code"] = (
+                        full_product_code
+                    )
 
-                        print("\n" + "=" * 50)
-                        print("NEW PRODUCT")
-                        print(product_code)
-                        print("=" * 50)
+                    record["base_product_code"] = parts[0]
 
-                        suggested_name = (
-                            record.get("product_name")
-                            or ""
-                        )
-
-                        print(
-                            f"Suggested name: {suggested_name}"
-                        )
-
-                        product_name = input(
-                            "Product name (Enter = accept): "
-                        ).strip()
-
-                        if not product_name:
-                            product_name = suggested_name
-
-                        insert_product(
-                            product_code,
-                            product_name,
-                            record.get("range_name")
-                        )
-
-                        # Insert product artwork requirements into database
-                        seed_artwork_requirements(product_code)
-
-                        actions.append(
-                            f"[PRODUCT CREATED] {product_code}"
-                        )
+                    record["product_variant"] = (
+                        parts[1] if len(parts) > 1 else None
+                    )
 
                 if not record:
                     actions.append(

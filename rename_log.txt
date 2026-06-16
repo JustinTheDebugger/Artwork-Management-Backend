@@ -113,3 +113,82 @@
 [DB INSERTED] 260615_Shapeshifter-6-Awning-Module_0266623_Branding_001_A3_HR.pdf
 [DB INSERTED] 260615_Shapeshifter-6-Awning-Module_0266623_Swing-Tag_001_C_HR.pdf
 [DB INSERTED] 260615_Shapeshifter-6-Awning-Module_0266623_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Inner-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Outer-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Inner-Shipping-Sticker_00170_D_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Outer-Shipping-Sticker_00170_D_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Inner-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Outer-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf
+[DB ERROR] 260616_POL-Adapater_0140821_Inner-Shipping-Sticker_00170_D_HR.pdf: name 'product_code' is not defined
+[DB ERROR] 260616_POL-Adapater_0140821_Outer-Shipping-Sticker_00170_D_HR.pdf: name 'product_code' is not defined
+[DB ERROR] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf: name 'product_code' is not defined
+[DB ERROR] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf: name 'product_code' is not defined
+[DB ERROR] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf: name 'product_code' is not defined
+[IGNORED] 260616_POL-Adapater_0140821_Inner-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Outer-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Inner-Shipping-Sticker_00170_D_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Outer-Shipping-Sticker_00170_D_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Inner-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Outer-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Inner-Shipping-Sticker_00170_D_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Outer-Shipping-Sticker_00170_D_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Inner-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Outer-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Inner-Shipping-Sticker_00170_D_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Outer-Shipping-Sticker_00170_D_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf
+Traceback (most recent call last):
+  File "C:\Users\JustinTay\OneDrive - Zempire Camping\Desktop\JUSTIN\Automation Scripts\Artwork Management Backend\run-sync.py", line 923, in <module>
+    sync_folder_to_neon(folder_path, upload_id, actions)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\JustinTay\OneDrive - Zempire Camping\Desktop\JUSTIN\Automation Scripts\Artwork Management Backend\run-sync.py", line 687, in sync_folder_to_neon
+    seed_artwork_requirements(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^
+        full_product_code
+        ^^^^^^^^^^^^^^^^^
+    )
+    ^
+TypeError: seed_artwork_requirements() takes 0 positional arguments but 1 was given
+
+[IGNORED] 260616_POL-Adapater_0140821_Inner-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Outer-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Inner-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Outer-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf
+[PRODUCT CREATED] 0140821-00170
+[DB INSERTED] 260616_POL-Adapater_0140821_Inner-Shipping-Sticker_00170_D_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Outer-Shipping-Sticker_00170_D_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf
