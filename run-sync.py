@@ -629,6 +629,8 @@ def get_artwork_group(artwork_type):
         # Shipping Stickers
         "Outer-Shipping-Sticker": "Outer Shipping Sticker",
         "Inner-Shipping-Sticker": "Inner Shipping Sticker",
+        "Outer-Shipping-Sticker-AU": "Outer Shipping Sticker",
+        "Inner-Shipping-Sticker-NZ": "Inner Shipping Sticker",
 
         # Colour Boxes
         "Packaging-Colour-Box": "Colour Box",
