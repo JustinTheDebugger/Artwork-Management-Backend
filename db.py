@@ -11,32 +11,24 @@ def insert_artwork(record):
 
     sql = """
     INSERT INTO artwork_files (
-        range_name,
         product_name,
         base_product_code,
         product_variant,
         full_product_code,
-        artwork_type,
         artwork_group,
-        revision_code,
         release_date,
-        resolution,
         upload_id,
         filename,
         file_path,
         is_combined
     )
     VALUES (
-        %(range_name)s,
         %(product_name)s,
         %(base_product_code)s,
         %(product_variant)s,
         %(full_product_code)s,
-        %(artwork_type)s,
         %(artwork_group)s,
-        %(revision_code)s,
         %(release_date)s,
-        %(resolution)s,
         %(upload_id)s,
         %(filename)s,
         %(file_path)s,
@@ -61,7 +53,6 @@ def insert_artwork(record):
             record.setdefault("base_product_code", None)
             record.setdefault("product_variant", None)
             record.setdefault("full_product_code", None)
-            record.setdefault("product_name", None)
             record.setdefault("is_combined", False)
             record.setdefault("artwork_group", None)
 
@@ -234,3 +225,26 @@ def seed_artwork_requirements(product_code):
         with conn.cursor() as cur:
             cur.execute(sql, (product_code,))
             conn.commit()
+
+# SPECIAL CASE WHERE ON FOLDER REPRESENT MULTIPLE PRODUCTS 
+# EG. 2 Burner Deluxe n Grill - 0150801-001_002
+def get_product_codes_from_path(folder_path):
+
+    folder_name = os.path.basename(folder_path)
+
+    match = re.search(
+        r'(\d{7})-(\d+(?:_\d+)*)$',
+        folder_name
+    )
+
+    if not match:
+        return []
+
+    base_code = match.group(1)
+
+    variants = match.group(2).split("_")
+
+    return [
+        f"{base_code}-{variant}"
+        for variant in variants
+    ]

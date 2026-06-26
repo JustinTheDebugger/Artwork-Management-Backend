@@ -192,3 +192,698 @@ TypeError: seed_artwork_requirements() takes 0 positional arguments but 1 was gi
 [DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf
 [DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf
 [DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Inner-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Outer-Shipping-Sticker_00170_D_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf
+[IGNORED] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Inner-Shipping-Sticker_00170_D_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Outer-Shipping-Sticker_00170_D_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Header-Cards_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Inner-Carton_00170_C_HR.pdf
+[DB INSERTED] 260616_POL-Adapater_0140821_Packaging_Outer-Carton_00170_C_HR.pdf
+[IGNORED] 260617_Cooker-Knobs-2pcs_0152901_Inner-Shipping-Sticker_00010_D_HR.pdf
+[IGNORED] 260617_Cooker-Knobs-2pcs_0152901_Outer-Shipping-Sticker_00010_D_HR.pdf
+[COPIED] 260617_Cooker-Knobs-2pk_0152901_Packaging_Header-Card_00010_D_HR.pdf → 2 - HEADERCARDS
+[IGNORED] 260617_Cooker-Knobs-2pk_0152901_Packaging_Inner-Carton_00010_C_HR.pdf
+[IGNORED] 260617_Cooker-Knobs-2pk_0152901_Packaging_Outer-Carton_00010_C_HR.pdf
+[PRODUCT CREATED] 0152901-00010
+[DB INSERTED] 260617_Cooker-Knobs-2pcs_0152901_Inner-Shipping-Sticker_00010_D_HR.pdf
+[DB INSERTED] 260617_Cooker-Knobs-2pcs_0152901_Outer-Shipping-Sticker_00010_D_HR.pdf
+[DB INSERTED] 260617_Cooker-Knobs-2pk_0152901_Packaging_Header-Card_00010_D_HR.pdf
+[DB INSERTED] 260617_Cooker-Knobs-2pk_0152901_Packaging_Inner-Carton_00010_C_HR.pdf
+[DB INSERTED] 260617_Cooker-Knobs-2pk_0152901_Packaging_Outer-Carton_00010_C_HR.pdf
+[SKIPPED] Exists: 260603_Shapeshifter-6_Production-Tag_001_B_HR.pdf
+[SKIPPED] Exists: 260611_Shapeshifter-4-6_Awning-Wall-Set_0266651-52_Instructions_001_B_Combined_HR.pdf
+[IGNORED] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Branding_001_A_HR.pdf
+[IGNORED] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Outer-Carton_001_A_HR.pdf
+[IGNORED] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Swing-Tag_Barcode-Sticker_001_A.pdf
+[IGNORED] 260619_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Swing-Tag_001_B_HR.pdf
+[DB EXISTS] 260603_Shapeshifter-6_Production-Tag_001_B_HR.pdf
+[LINKED] 260603_Shapeshifter-6_Production-Tag_001_B_HR.pdf -> 0266652-001
+[COMBINED DETECTED] ['0266651-001', '0266652-001']
+[AUTO LINKED] 260611_Shapeshifter-4-6_Awning-Wall-Set_0266651-52_Instructions_001_B_Combined_HR.pdf -> 0266651-001
+[AUTO LINKED] 260611_Shapeshifter-4-6_Awning-Wall-Set_0266651-52_Instructions_001_B_Combined_HR.pdf -> 0266652-001
+[DB EXISTS] 260611_Shapeshifter-4-6_Awning-Wall-Set_0266651-52_Instructions_001_B_Combined_HR.pdf
+[LINKED] 260611_Shapeshifter-4-6_Awning-Wall-Set_0266651-52_Instructions_001_B_Combined_HR.pdf -> 0266652-001
+[DB EXISTS] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Branding_001_A_HR.pdf
+[DB EXISTS] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Outer-Carton_001_A_HR.pdf
+[DB EXISTS] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Swing-Tag_Barcode-Sticker_001_A.pdf
+[DB INSERTED] 260619_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Swing-Tag_001_B_HR.pdf
+[SKIPPED] Exists: 260603_Shapeshifter-6_Production-Tag_001_B_HR.pdf
+[SKIPPED] Exists: 260611_Shapeshifter-4-6_Awning-Wall-Set_0266651-52_Instructions_001_B_Combined_HR.pdf
+[IGNORED] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Branding_001_A_HR.pdf
+[IGNORED] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Outer-Carton_001_A_HR.pdf
+[IGNORED] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Swing-Tag_Barcode-Sticker_001_A.pdf
+[IGNORED] 260619_Shapeshifter-6_Awning-Wall-Set_0266652_Outer-Shipping-Sticker_001_C.pdf
+[IGNORED] 260619_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Swing-Tag_001_B_HR.pdf
+[DB EXISTS] 260603_Shapeshifter-6_Production-Tag_001_B_HR.pdf
+[LINKED] 260603_Shapeshifter-6_Production-Tag_001_B_HR.pdf -> 0266652-001
+[COMBINED DETECTED] ['0266651-001', '0266652-001']
+[AUTO LINKED] 260611_Shapeshifter-4-6_Awning-Wall-Set_0266651-52_Instructions_001_B_Combined_HR.pdf -> 0266651-001
+[AUTO LINKED] 260611_Shapeshifter-4-6_Awning-Wall-Set_0266651-52_Instructions_001_B_Combined_HR.pdf -> 0266652-001
+[DB EXISTS] 260611_Shapeshifter-4-6_Awning-Wall-Set_0266651-52_Instructions_001_B_Combined_HR.pdf
+[LINKED] 260611_Shapeshifter-4-6_Awning-Wall-Set_0266651-52_Instructions_001_B_Combined_HR.pdf -> 0266652-001
+[DB EXISTS] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Branding_001_A_HR.pdf
+[DB EXISTS] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Outer-Carton_001_A_HR.pdf
+[DB EXISTS] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Swing-Tag_Barcode-Sticker_001_A.pdf
+[DB INSERTED] 260619_Shapeshifter-6_Awning-Wall-Set_0266652_Outer-Shipping-Sticker_001_C.pdf
+[DB EXISTS] 260619_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Swing-Tag_001_B_HR.pdf
+[SKIPPED] Exists: 260603_Shapeshifter-6_Production-Tag_001_B_HR.pdf
+[SKIPPED] Exists: 260611_Shapeshifter-4-6_Awning-Wall-Set_0266651-52_Instructions_001_B_Combined_HR.pdf
+[IGNORED] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Branding_001_A_HR.pdf
+[IGNORED] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Outer-Carton_001_A_HR.pdf
+[IGNORED] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[IGNORED] 260619_Shapeshifter-6_Awning-Wall-Set_0266652_Outer-Shipping-Sticker_001_C_HR.pdf
+[IGNORED] 260619_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Swing-Tag_001_B_HR.pdf
+[DB EXISTS] 260603_Shapeshifter-6_Production-Tag_001_B_HR.pdf
+[LINKED] 260603_Shapeshifter-6_Production-Tag_001_B_HR.pdf -> 0266652-001
+[COMBINED DETECTED] ['0266651-001', '0266652-001']
+[AUTO LINKED] 260611_Shapeshifter-4-6_Awning-Wall-Set_0266651-52_Instructions_001_B_Combined_HR.pdf -> 0266651-001
+[AUTO LINKED] 260611_Shapeshifter-4-6_Awning-Wall-Set_0266651-52_Instructions_001_B_Combined_HR.pdf -> 0266652-001
+[DB INSERTED] 260611_Shapeshifter-4-6_Awning-Wall-Set_0266651-52_Instructions_001_B_Combined_HR.pdf
+[DB INSERTED] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Branding_001_A_HR.pdf
+[DB INSERTED] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Outer-Carton_001_A_HR.pdf
+[DB INSERTED] 260618_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[DB INSERTED] 260619_Shapeshifter-6_Awning-Wall-Set_0266652_Outer-Shipping-Sticker_001_C_HR.pdf
+[DB INSERTED] 260619_Shapeshifter-6_Awning-Wall-Set_0266652_Packaging_Swing-Tag_001_B_HR.pdf
+[SKIPPED] Exists: 260603_Shapeshifter-6_Production-Tag_001_B_HR.pdf
+[SKIPPED] Exists: 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Instructions_001_B_HR.pdf
+[IGNORED] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Swing-Tag_001_A2_HR.pdf
+[IGNORED] 260619_Shapeshifter-6_Sleeping-Footprint_0266635_Branding_001_A_HR.pdf
+[IGNORED] 260619_Shapeshifter-6_Sleeping-Footprint_0266635_Inner-Shipping-Sticker_001_C_HR.pdf
+[IGNORED] 260619_Shapeshifter-6_Sleeping-Footprint_0266635_Outer-Shipping-Sticker_001_C_HR.pdf
+[IGNORED] 260619_Shapeshifter-6_Sleeping-Footprint_0266635_Packaging_Inner-Carton_001_A_HR.pdf
+[IGNORED] 260619_Shapeshifter-6_Sleeping-Footprint_0266635_Packaging_Outer-Carton_001_A_HR.pdf
+[IGNORED] 260619_Shapeshifter-6_Sleeping-Footprint_0266635_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[PRODUCT CREATED] 0266635-001
+[DB EXISTS] 260603_Shapeshifter-6_Production-Tag_001_B_HR.pdf
+[LINKED] 260603_Shapeshifter-6_Production-Tag_001_B_HR.pdf -> 0266635-001
+[COMBINED DETECTED] ['0266632-001', '0266635-001']
+[AUTO LINKED] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Instructions_001_B_HR.pdf -> 0266632-001
+[AUTO LINKED] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Instructions_001_B_HR.pdf -> 0266635-001
+[DB EXISTS] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Instructions_001_B_HR.pdf
+[LINKED] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Instructions_001_B_HR.pdf -> 0266635-001
+[COMBINED DETECTED] ['0266632-001', '0266635-001']
+[AUTO LINKED] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Swing-Tag_001_A2_HR.pdf -> 0266632-001
+[AUTO LINKED] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Swing-Tag_001_A2_HR.pdf -> 0266635-001
+[DB EXISTS] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Swing-Tag_001_A2_HR.pdf
+[LINKED] 260615_Shapeshifter-4-6_Sleeping-Footprint_0266632-35_Swing-Tag_001_A2_HR.pdf -> 0266635-001
+[DB INSERTED] 260619_Shapeshifter-6_Sleeping-Footprint_0266635_Branding_001_A_HR.pdf
+[DB INSERTED] 260619_Shapeshifter-6_Sleeping-Footprint_0266635_Inner-Shipping-Sticker_001_C_HR.pdf
+[DB INSERTED] 260619_Shapeshifter-6_Sleeping-Footprint_0266635_Outer-Shipping-Sticker_001_C_HR.pdf
+[DB INSERTED] 260619_Shapeshifter-6_Sleeping-Footprint_0266635_Packaging_Inner-Carton_001_A_HR.pdf
+[DB INSERTED] 260619_Shapeshifter-6_Sleeping-Footprint_0266635_Packaging_Outer-Carton_001_A_HR.pdf
+[DB INSERTED] 260619_Shapeshifter-6_Sleeping-Footprint_0266635_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[SKIPPED] Exists: 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf
+[SKIPPED] Exists: 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf
+[IGNORED] 260611_Shapeshifter-4-Living_0266612_Branding_001_A5_HR.pdf
+[IGNORED] 260611_Shapeshifter-4-Living_0266612_Swing-Tag_001_C_HR.pdf
+[IGNORED] 260611_Shapeshifter-4-Living_0266612_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[IGNORED] 260611_Shapeshifter-6-Sleeping-Module_0266621_Packaging_Colour-Carton_001_C_HR.pdf
+[IGNORED] 260615_Shapeshifter-4-Living-Module_0266612_Packaging_Colour-Carton_001_C_HR.pdf
+[PRODUCT CREATED] 0266612-001
+[DB EXISTS] 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf
+[LINKED] 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf -> 0266612-001
+[COMBINED DETECTED] ['0266612-001', '0266613-001', '0266622-001', '0266623-001']
+[AUTO LINKED] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf -> 0266612-001
+[AUTO LINKED] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf -> 0266613-001
+[AUTO LINKED] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf -> 0266622-001
+[AUTO LINKED] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf -> 0266623-001
+[DB EXISTS] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf
+[LINKED] 260605_Shapeshifter-4-6-Living-Awning-Module_0266612-13-22-23_Instruction_001_B_Combined_HR.pdf -> 0266612-001
+[DB INSERTED] 260611_Shapeshifter-4-Living_0266612_Branding_001_A5_HR.pdf
+[DB INSERTED] 260611_Shapeshifter-4-Living_0266612_Swing-Tag_001_C_HR.pdf
+[DB INSERTED] 260611_Shapeshifter-4-Living_0266612_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[DB EXISTS] 260611_Shapeshifter-6-Sleeping-Module_0266621_Packaging_Colour-Carton_001_C_HR.pdf
+[DB INSERTED] 260615_Shapeshifter-4-Living-Module_0266612_Packaging_Colour-Carton_001_C_HR.pdf
+[SKIPPED] Exists: 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf
+[SKIPPED] Exists: 260611_Shapeshifter-4-6-Sleeping_0266611-21_Instruction-Booklet_001_B_Combined_HR.pdf
+[IGNORED] 260615_Shapeshifter-4-Sleeping-Module_0266611_Swing-Tag_001_C_HR.pdf
+[IGNORED] 260615_Shapeshifter-4-Sleeping_0266611_Branding_001_A5_HR.pdf
+[IGNORED] 260615_Shapeshifter-4-Sleeping_0266611_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[IGNORED] 260616_Shapeshifter-4-Sleeping-Module_0266611_Packaging_Colour-Carton_001_C_HR.pdf
+[PRODUCT CREATED] 0266611-001
+[DB EXISTS] 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf
+[LINKED] 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf -> 0266611-001
+[COMBINED DETECTED] ['0266611-001', '0266621-001']
+[AUTO LINKED] 260611_Shapeshifter-4-6-Sleeping_0266611-21_Instruction-Booklet_001_B_Combined_HR.pdf -> 0266611-001
+[AUTO LINKED] 260611_Shapeshifter-4-6-Sleeping_0266611-21_Instruction-Booklet_001_B_Combined_HR.pdf -> 0266621-001
+[DB EXISTS] 260611_Shapeshifter-4-6-Sleeping_0266611-21_Instruction-Booklet_001_B_Combined_HR.pdf
+[LINKED] 260611_Shapeshifter-4-6-Sleeping_0266611-21_Instruction-Booklet_001_B_Combined_HR.pdf -> 0266611-001
+[DB INSERTED] 260615_Shapeshifter-4-Sleeping-Module_0266611_Swing-Tag_001_C_HR.pdf
+[DB INSERTED] 260615_Shapeshifter-4-Sleeping_0266611_Branding_001_A5_HR.pdf
+[DB INSERTED] 260615_Shapeshifter-4-Sleeping_0266611_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[DB INSERTED] 260616_Shapeshifter-4-Sleeping-Module_0266611_Packaging_Colour-Carton_001_C_HR.pdf
+[SKIPPED] Exists: 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf
+[COPIED] 260611_Shapeshifter-4-6-Sleeping-Module_0266611-21_Instruction-Booklet_001_B_Combined_HR.pdf → 1 - INSTRUCTIONS
+[IGNORED] 260615_Shapeshifter-4-Sleeping-Module_0266611_Branding_001_A5_HR.pdf
+[IGNORED] 260615_Shapeshifter-4-Sleeping-Module_0266611_Swing-Tag_001_C.pdf
+[IGNORED] 260615_Shapeshifter-4-Sleeping-Module_0266611_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[IGNORED] 260616_Shapeshifter-4-Sleeping-Module_0266611_Packaging_Colour-Carton_001_C_HR.pdf
+[DB ERROR] 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf: 'NoneType' object has no attribute 'replace'
+[COMBINED DETECTED] ['0266611-001', '0266621-001']
+[AUTO LINKED] 260611_Shapeshifter-4-6-Sleeping-Module_0266611-21_Instruction-Booklet_001_B_Combined_HR.pdf -> 0266611-001
+[AUTO LINKED] 260611_Shapeshifter-4-6-Sleeping-Module_0266611-21_Instruction-Booklet_001_B_Combined_HR.pdf -> 0266621-001
+[DB INSERTED] 260611_Shapeshifter-4-6-Sleeping-Module_0266611-21_Instruction-Booklet_001_B_Combined_HR.pdf
+[DB INSERTED] 260615_Shapeshifter-4-Sleeping-Module_0266611_Branding_001_A5_HR.pdf
+[DB INSERTED] 260615_Shapeshifter-4-Sleeping-Module_0266611_Swing-Tag_001_C.pdf
+[DB INSERTED] 260615_Shapeshifter-4-Sleeping-Module_0266611_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[DB INSERTED] 260616_Shapeshifter-4-Sleeping-Module_0266611_Packaging_Colour-Carton_001_C_HR.pdf
+[SKIPPED] Exists: 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf
+[SKIPPED] Exists: 260611_Shapeshifter-4-6-Sleeping-Module_0266611-21_Instruction-Booklet_001_B_Combined_HR.pdf
+[IGNORED] 260615_Shapeshifter-4-Sleeping-Module_0266611_Branding_001_A5_HR.pdf
+[IGNORED] 260615_Shapeshifter-4-Sleeping-Module_0266611_Swing-Tag_001_C.pdf
+[IGNORED] 260615_Shapeshifter-4-Sleeping-Module_0266611_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[IGNORED] 260616_Shapeshifter-4-Sleeping-Module_0266611_Packaging_Colour-Carton_001_C_HR.pdf
+[DB ERROR] 260603_Shapeshifter-4_Production-Tag_001_B_HR.pdf: 'NoneType' object has no attribute 'replace'
+[COMBINED DETECTED] ['0266611-001', '0266621-001']
+[AUTO LINKED] 260611_Shapeshifter-4-6-Sleeping-Module_0266611-21_Instruction-Booklet_001_B_Combined_HR.pdf -> 0266611-001
+[AUTO LINKED] 260611_Shapeshifter-4-6-Sleeping-Module_0266611-21_Instruction-Booklet_001_B_Combined_HR.pdf -> 0266621-001
+[DB INSERTED] 260611_Shapeshifter-4-6-Sleeping-Module_0266611-21_Instruction-Booklet_001_B_Combined_HR.pdf
+[DB INSERTED] 260615_Shapeshifter-4-Sleeping-Module_0266611_Branding_001_A5_HR.pdf
+[DB INSERTED] 260615_Shapeshifter-4-Sleeping-Module_0266611_Swing-Tag_001_C.pdf
+[DB INSERTED] 260615_Shapeshifter-4-Sleeping-Module_0266611_Swing-Tag_Barcode-Sticker_001_A_HR.pdf
+[DB INSERTED] 260616_Shapeshifter-4-Sleeping-Module_0266611_Packaging_Colour-Carton_001_C_HR.pdf
+[IGNORED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf
+[IGNORED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E.pdf
+[IGNORED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf
+[PRODUCT CREATED] 0199920-000
+[DB INSERTED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf
+[IGNORED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf
+[IGNORED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E.pdf
+[IGNORED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf
+[IGNORED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E_HR.pdf
+[IGNORED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E_HR.pdf
+[IGNORED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E_HR.pdf
+[DB INSERTED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E_HR.pdf
+[DB INSERTED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E_HR.pdf
+[DB INSERTED] 260623_Boston-Valve_Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E_HR.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E_HR.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E_HR.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E_HR.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E_HR.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E_HR.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E_HR.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf
+[DB ERROR] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf: name 'extract_artwork_group' is not defined
+[DB ERROR] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E.pdf: name 'extract_artwork_group' is not defined
+[DB ERROR] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf: name 'extract_artwork_group' is not defined
+[COPIED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf → 2 - HEADERCARDS
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Inner-Box_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf
+[SKIPPED] Exists: 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Outer-Shipping-Sticker_000_F.pdf
+[IGNORED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Header-Cards_000_E.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Outer-Shipping-Sticker_000_F.pdf
+[DB INSERTED] 260623_Boston-Valve-Inflatable-Domes-2019-onwards_0199920_Packaging_Outer-Carton_000_E.pdf
+[SKIPPED] Exists: 260605_Pro-TL-V2_0176605_Label_Production-Tag_001_D_HR.pdf
+[COPIED] 260624_PE_Footprints_Generic-Instructions_B_Combined.pdf → 1 - INSTRUCTIONS
+[IGNORED] 260624_Pro-TL-V2_PE-Footprint_0222113_Barcode-Sticker_Swing-Tag_000_C.pdf
+[IGNORED] 260624_Pro-TL-V2_PE-Footprint_0222113_Branding_000_B.pdf
+[IGNORED] 260624_Pro-TL-V2_PE-Footprint_0222113_Outer-Shipping-Sticker_000_E.pdf
+[IGNORED] 260624_Pro-TL-V2_PE-Footprint_0222113_Packaging_Outer-Carton_000_C.pdf
+[IGNORED] 260624_Pro-TL-V2_PE-Footprint_0222113_Packaging_Swing-Tag_000_D.pdf
+[PRODUCT CREATED] 0222113-000
+[DB EXISTS] 260605_Pro-TL-V2_0176605_Label_Production-Tag_001_D_HR.pdf
+[DB SKIPPED] Unable to parse: 260624_PE_Footprints_Generic-Instructions_B_Combined.pdf
+[DB INSERTED] 260624_Pro-TL-V2_PE-Footprint_0222113_Barcode-Sticker_Swing-Tag_000_C.pdf
+[DB INSERTED] 260624_Pro-TL-V2_PE-Footprint_0222113_Branding_000_B.pdf
+[DB INSERTED] 260624_Pro-TL-V2_PE-Footprint_0222113_Outer-Shipping-Sticker_000_E.pdf
+[DB INSERTED] 260624_Pro-TL-V2_PE-Footprint_0222113_Packaging_Outer-Carton_000_C.pdf
+[DB INSERTED] 260624_Pro-TL-V2_PE-Footprint_0222113_Packaging_Swing-Tag_000_D.pdf
+[SKIPPED] Exists: 260605_Pro-TL-V2_0176605_Label_Production-Tag_001_D_HR.pdf
+[SKIPPED] Exists: 260624_PE_Footprints_Generic-Instructions_B_Combined.pdf
+[IGNORED] 260624_Pro-TL-V2_PE-Footprint_0222113_Barcode-Sticker_Swing-Tag_000_C.pdf
+[IGNORED] 260624_Pro-TL-V2_PE-Footprint_0222113_Branding_000_B.pdf
+[IGNORED] 260624_Pro-TL-V2_PE-Footprint_0222113_Outer-Shipping-Sticker_000_E.pdf
+[IGNORED] 260624_Pro-TL-V2_PE-Footprint_0222113_Packaging_Outer-Carton_000_C.pdf
+[IGNORED] 260624_Pro-TL-V2_PE-Footprint_0222113_Packaging_Swing-Tag_000_D.pdf
+[DB EXISTS] 260605_Pro-TL-V2_0176605_Label_Production-Tag_001_D_HR.pdf
+[LINKED] 260624_PE_Footprints_Generic-Instructions_B_Combined.pdf -> 0222113-000
+[DB INSERTED] 260624_PE_Footprints_Generic-Instructions_B_Combined.pdf
+[DB INSERTED] 260624_Pro-TL-V2_PE-Footprint_0222113_Barcode-Sticker_Swing-Tag_000_C.pdf
+[DB INSERTED] 260624_Pro-TL-V2_PE-Footprint_0222113_Branding_000_B.pdf
+[DB INSERTED] 260624_Pro-TL-V2_PE-Footprint_0222113_Outer-Shipping-Sticker_000_E.pdf
+[DB INSERTED] 260624_Pro-TL-V2_PE-Footprint_0222113_Packaging_Outer-Carton_000_C.pdf
+[DB INSERTED] 260624_Pro-TL-V2_PE-Footprint_0222113_Packaging_Swing-Tag_000_D.pdf
+[IGNORED] 260624_Airforce-1_V2_0190107_Branding_001_B.pdf
+[COPIED] 260624_Airforce-1_V2_0190107_Instruction-Booklet_001_G.pdf → 1 - INSTRUCTIONS
+[COPIED] 260624_Airforce-1_V2_0190107_Label_Production-Tag_001_E.pdf → 0 - PRODUCTIONTAGS
+[IGNORED] 260624_Airforce-1_V2_0190107_Packaging_Unit-Carton_001_C.pdf
+[IGNORED] 260624_Airforce-1_V2_0190107_Shipping-Sticker_001_G.pdf
+[PRODUCT CREATED] 0190107-001
+[DB ERROR] 260624_Airforce-1_V2_0190107_Branding_001_B.pdf: name 'extract_artwork_type' is not defined
+[DB ERROR] 260624_Airforce-1_V2_0190107_Instruction-Booklet_001_G.pdf: name 'extract_artwork_type' is not defined
+[DB ERROR] 260624_Airforce-1_V2_0190107_Label_Production-Tag_001_E.pdf: name 'extract_artwork_type' is not defined
+[DB ERROR] 260624_Airforce-1_V2_0190107_Packaging_Unit-Carton_001_C.pdf: name 'extract_artwork_type' is not defined
+[DB ERROR] 260624_Airforce-1_V2_0190107_Shipping-Sticker_001_G.pdf: name 'extract_artwork_type' is not defined
+[IGNORED] 260624_Airforce-1_V2_0190107_Branding_001_B.pdf
+[SKIPPED] Exists: 260624_Airforce-1_V2_0190107_Instruction-Booklet_001_G.pdf
+[SKIPPED] Exists: 260624_Airforce-1_V2_0190107_Label_Production-Tag_001_E.pdf
+[IGNORED] 260624_Airforce-1_V2_0190107_Packaging_Unit-Carton_001_C.pdf
+[IGNORED] 260624_Airforce-1_V2_0190107_Shipping-Sticker_001_G.pdf
+[DB ERROR] 260624_Airforce-1_V2_0190107_Branding_001_B.pdf: name 'extract_artwork_type' is not defined
+[DB ERROR] 260624_Airforce-1_V2_0190107_Instruction-Booklet_001_G.pdf: name 'extract_artwork_type' is not defined
+[DB ERROR] 260624_Airforce-1_V2_0190107_Label_Production-Tag_001_E.pdf: name 'extract_artwork_type' is not defined
+[DB ERROR] 260624_Airforce-1_V2_0190107_Packaging_Unit-Carton_001_C.pdf: name 'extract_artwork_type' is not defined
+[DB ERROR] 260624_Airforce-1_V2_0190107_Shipping-Sticker_001_G.pdf: name 'extract_artwork_type' is not defined
+[IGNORED] 260624_Airforce-1_V2_0190107_Branding_001_B.pdf
+[SKIPPED] Exists: 260624_Airforce-1_V2_0190107_Instruction-Booklet_001_G.pdf
+[SKIPPED] Exists: 260624_Airforce-1_V2_0190107_Label_Production-Tag_001_E.pdf
+[IGNORED] 260624_Airforce-1_V2_0190107_Packaging_Unit-Carton_001_C.pdf
+[IGNORED] 260624_Airforce-1_V2_0190107_Shipping-Sticker_001_G.pdf
+[DB INSERTED] 260624_Airforce-1_V2_0190107_Branding_001_B.pdf
+[DB INSERTED] 260624_Airforce-1_V2_0190107_Instruction-Booklet_001_G.pdf
+[DB INSERTED] 260624_Airforce-1_V2_0190107_Label_Production-Tag_001_E.pdf
+[DB INSERTED] 260624_Airforce-1_V2_0190107_Packaging_Unit-Carton_001_C.pdf
+[DB INSERTED] 260624_Airforce-1_V2_0190107_Shipping-Sticker_001_G.pdf
+[SKIPPED] Exists: 260605_Evo-TS-V2_0207004_Label_Production-Tag_003_D_HR.pdf
+[IGNORED] 260624_Evo-TS-V2_PE-Footprint_0202104_Barcode-Sticker_Swing-Tag_001_E.pdf
+[IGNORED] 260624_Evo-TS-V2_PE-Footprint_0202104_Branding_001_D.pdf
+[IGNORED] 260624_Evo-TS-V2_PE-Footprint_0202104_Outer-Shipping-Sticker_001_G.pdf
+[IGNORED] 260624_Evo-TS-V2_PE-Footprint_0202104_Packaging_Swing-Tag_001_F.pdf
+[IGNORED] 260624_Evo-TS-V2_Solid-Ground-Sheet_0202104_Packaging_Outer-Carton_001_D.pdf
+[SKIPPED] Exists: 260624_PE_Footprints_Generic-Instructions_B_Combined.pdf
+[PRODUCT CREATED] 0202104-001
+[DB EXISTS] 260605_Evo-TS-V2_0207004_Label_Production-Tag_003_D_HR.pdf
+[DB INSERTED] 260624_Evo-TS-V2_PE-Footprint_0202104_Barcode-Sticker_Swing-Tag_001_E.pdf
+[DB INSERTED] 260624_Evo-TS-V2_PE-Footprint_0202104_Branding_001_D.pdf
+[DB INSERTED] 260624_Evo-TS-V2_PE-Footprint_0202104_Outer-Shipping-Sticker_001_G.pdf
+[DB INSERTED] 260624_Evo-TS-V2_PE-Footprint_0202104_Packaging_Swing-Tag_001_F.pdf
+[DB INSERTED] 260624_Evo-TS-V2_Solid-Ground-Sheet_0202104_Packaging_Outer-Carton_001_D.pdf
+[LINKED] 260624_PE_Footprints_Generic-Instructions_B_Combined.pdf -> 0202104-001
+[DB EXISTS] 260624_PE_Footprints_Generic-Instructions_B_Combined.pdf
+[LINKED] 260624_PE_Footprints_Generic-Instructions_B_Combined.pdf -> 0202104-001
+[COPIED] 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf → 2 - HEADERCARDS
+[IGNORED] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Box_00100_E.pdf
+[PRODUCT CREATED] 0153003-00100
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Box_00100_E.pdf
+[SKIPPED] Exists: 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Box_00100_E.pdf
+[DB ERROR] 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf: 'NoneType' object has no attribute 'replace'
+[DB ERROR] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf: 'NoneType' object has no attribute 'replace'
+[DB ERROR] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf: 'NoneType' object has no attribute 'replace'
+[DB ERROR] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf: 'NoneType' object has no attribute 'replace'
+[DB ERROR] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Box_00100_E.pdf: 'NoneType' object has no attribute 'replace'
+[SKIPPED] Exists: 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Box_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Box_00100_E.pdf
+[SKIPPED] Exists: 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Box_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Box_00100_E.pdf
+[SKIPPED] Exists: 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Box_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Box_00100_E.pdf
+[SKIPPED] Exists: 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Box_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Box_00100_E.pdf
+[SKIPPED] Exists: 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Carton_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Carton_00100_E.pdf
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[COPIED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512-000_Instruction_000_B.pdf → 1 - INSTRUCTIONS
+[COPIED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf → 2 - HEADERCARDS
+[COPIED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf → 2 - HEADERCARDS
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[PRODUCT CREATED] 0246512-000
+[DB EXISTS] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512-000_Instruction_000_B.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[COPIED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instruction_000_B.pdf → 1 - INSTRUCTIONS
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[DB EXISTS] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instruction_000_B.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[COPIED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf → 1 - INSTRUCTIONS
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[DB EXISTS] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[DB EXISTS] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[DB EXISTS] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[DB EXISTS] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[DB EXISTS] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[DB EXISTS] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[DB EXISTS] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[DB EXISTS] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[LINKED] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf -> 0246512-000
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[DB INSERTED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[IGNORED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[IGNORED] 260625_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[DB EXISTS] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[LINKED] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf -> 0246512-000
+[DB EXISTS] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card-Sticker_000_A.pdf
+[DB EXISTS] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Header-Card_000_A.pdf
+[DB EXISTS] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf
+[LINKED] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Instructions_000_B.pdf -> 0246512-000
+[DB EXISTS] 260624_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Shipping-Sticker_000_C.pdf
+[DB INSERTED] 260625_Roadiebase-Camper-Link-EU-Kador-Strip_0246512_Outer-Carton_000_A.pdf
+[SKIPPED] Exists: 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf
+[IGNORED] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Carton_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Header-Cards_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Inner-Shipping-Sticker_00100_F.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Outer-Shipping-Sticker_00100_F.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Packaging_Inner-Carton_00100_E.pdf
+[DB INSERTED] 260624_C-Clips-5pcs_0153003_Packaging_Outer-Carton_00100_E.pdf
+[SKIPPED] Exists: 260605_Evo-TS-V2_0207004_Label_Production-Tag_003_D_HR.pdf
+[IGNORED] 260624_Evo-TS-V2_PE-Footprint_0202104_Barcode-Sticker_Swing-Tag_001_E.pdf
+[IGNORED] 260624_Evo-TS-V2_PE-Footprint_0202104_Branding_001_D.pdf
+[IGNORED] 260624_Evo-TS-V2_PE-Footprint_0202104_Outer-Shipping-Sticker_001_G.pdf
+[IGNORED] 260624_Evo-TS-V2_PE-Footprint_0202104_Packaging_Swing-Tag_001_F.pdf
+[IGNORED] 260624_Evo-TS-V2_Solid-Ground-Sheet_0202104_Packaging_Outer-Carton_001_D.pdf
+[SKIPPED] Exists: 260624_PE_Footprints_Generic-Instructions_B_Combined.pdf
+[DB EXISTS] 260605_Evo-TS-V2_0207004_Label_Production-Tag_003_D_HR.pdf
+[LINKED] 260605_Evo-TS-V2_0207004_Label_Production-Tag_003_D_HR.pdf -> 0202104-001
+[DB INSERTED] 260624_Evo-TS-V2_PE-Footprint_0202104_Barcode-Sticker_Swing-Tag_001_E.pdf
+[DB INSERTED] 260624_Evo-TS-V2_PE-Footprint_0202104_Branding_001_D.pdf
+[DB INSERTED] 260624_Evo-TS-V2_PE-Footprint_0202104_Outer-Shipping-Sticker_001_G.pdf
+[DB INSERTED] 260624_Evo-TS-V2_PE-Footprint_0202104_Packaging_Swing-Tag_001_F.pdf
+[DB INSERTED] 260624_Evo-TS-V2_Solid-Ground-Sheet_0202104_Packaging_Outer-Carton_001_D.pdf
+[LINKED] 260624_PE_Footprints_Generic-Instructions_B_Combined.pdf -> 0202104-001
+[DB EXISTS] 260624_PE_Footprints_Generic-Instructions_B_Combined.pdf
+[LINKED] 260624_PE_Footprints_Generic-Instructions_B_Combined.pdf -> 0202104-001
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[IGNORED] 260624_Roadiebase-Add-Ons-IT-RC-GS_2024_Swing-Tag_001_B_Combined.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf
+[COPIED] 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf → 1 - INSTRUCTIONS
+[IGNORED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf
+[IGNORED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf
+[PRODUCT CREATED] 0242302-000
+[DB EXISTS] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[LINKED] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf -> 0242302-000
+[LINKED] 260624_Roadiebase-Add-Ons-IT-RC-GS_2024_Swing-Tag_001_B_Combined.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Add-Ons-IT-RC-GS_2024_Swing-Tag_001_B_Combined.pdf
+[DB INSERTED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf
+[DB INSERTED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf
+[DB INSERTED] 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf
+[DB INSERTED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf
+[DB INSERTED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[IGNORED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf
+[IGNORED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf
+[IGNORED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf
+[DB EXISTS] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[LINKED] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf -> 0242302-000
+[LINKED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf
+[DB INSERTED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf
+[DB INSERTED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf
+[DB INSERTED] 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf
+[DB INSERTED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf
+[DB INSERTED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[IGNORED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf
+[IGNORED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf
+[IGNORED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf
+[DB EXISTS] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[LINKED] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf -> 0242302-000
+[LINKED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf
+[DB INSERTED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf
+[DB INSERTED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf
+[DB INSERTED] 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf
+[DB INSERTED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf
+[DB INSERTED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[IGNORED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf
+[IGNORED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf
+[IGNORED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf
+[DB ERROR] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf: cannot access local variable 'artwork_type' where it is not associated with a value
+[LINKED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf
+[DB ERROR] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf: cannot access local variable 'artwork_type' where it is not associated with a value
+[DB ERROR] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf: cannot access local variable 'artwork_type' where it is not associated with a value
+[DB ERROR] 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf: cannot access local variable 'artwork_type' where it is not associated with a value
+[DB ERROR] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf: cannot access local variable 'artwork_type' where it is not associated with a value
+[DB ERROR] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf: cannot access local variable 'artwork_type' where it is not associated with a value
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[IGNORED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf
+[IGNORED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf
+[IGNORED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf
+[DB EXISTS] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[LINKED] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf -> 0242302-000
+[LINKED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf -> 0242302-000
+[DB EXISTS] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf
+[LINKED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf
+[AUTO LINKED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf
+[AUTO LINKED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf
+[AUTO LINKED] 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf
+[AUTO LINKED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf -> 0242302-000
+[DB INSERTED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf
+[AUTO LINKED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf -> 0242302-000
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[IGNORED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf
+[IGNORED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf
+[IGNORED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf
+[DB INSERTED] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[AUTO LINKED] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf -> 0242302-000
+[LINKED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf
+[DB INSERTED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf
+[AUTO LINKED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf
+[AUTO LINKED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf
+[AUTO LINKED] 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf
+[AUTO LINKED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf -> 0242302-000
+[DB INSERTED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf
+[AUTO LINKED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf -> 0242302-000
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[IGNORED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf
+[IGNORED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf
+[IGNORED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf
+[DB INSERTED] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[AUTO LINKED] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf -> 0242302-000
+[LINKED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf
+[DB INSERTED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf
+[AUTO LINKED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf
+[AUTO LINKED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf
+[AUTO LINKED] 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf
+[AUTO LINKED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf -> 0242302-000
+[DB INSERTED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf
+[AUTO LINKED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf -> 0242302-000
+[SKIPPED] Exists: 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[IGNORED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf
+[IGNORED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf
+[SKIPPED] Exists: 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf
+[IGNORED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf
+[IGNORED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf
+[DB INSERTED] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf
+[AUTO LINKED] 260609_Roadiebase_0240301_Label_Production-Tag_000_D_HR.pdf -> 0242302-000
+[LINKED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Add-Ons-IT-RC-GS-2024_Swing-Tag_001_B_Combined.pdf
+[DB INSERTED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf
+[AUTO LINKED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Branding_000_B2.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf
+[AUTO LINKED] 260624_Roadiebase-Heat-Shield-Cover_0242302_Swing-Tag_Barcode-Sticker_000_C.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf
+[AUTO LINKED] 260624_Roadiebase-Roof-Cover_0242302_Instructions_000_D.pdf -> 0242302-000
+[DB INSERTED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf
+[AUTO LINKED] 260624_Roadiebase-Roof-Cover_0242302_Packaging_Outer-Carton_000_B.pdf -> 0242302-000
+[DB INSERTED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf
+[AUTO LINKED] 260625_Roadiebase-Heat-Shield-Cover_0242302_Outer-Shipping-Sticker_000_E.pdf -> 0242302-000
